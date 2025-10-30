@@ -1,0 +1,13 @@
+
+.navbar a, .navbar a:visited, .navbar a:active, .navbar a:focus {
+	text-decoration: none !important;
+	color: inherit !important;
+}
+
+body {
+	background-image: url('https://img.freepik.com/vector-gratis/trae-papel-tapiz-espacio-nocturno-campo-estelar-brillante_1017-53512.jpg?semt=ais_hybrid&w=740&q=80');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 100vh;
+}
